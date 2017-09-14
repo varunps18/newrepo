@@ -1,0 +1,8 @@
+.containerleft{
+    float:left;
+    width:50%;
+}
+.containerright{
+    float: left;
+    width:50%;
+}
